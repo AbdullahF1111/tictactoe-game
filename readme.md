@@ -47,7 +47,7 @@ Deploy with GitHub Pages
 
 GitHub Pages hosts the game for free so anyone can play it from a link.
 
-Live demo: https://abdullahf1111.github.io/tictactoe-game/
+## Live demo: https://abdullahf1111.github.io/tictactoe-game/
 
 ## Code Architecture
 
